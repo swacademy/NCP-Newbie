@@ -1,5 +1,5 @@
 # NCP-Newbie
-- Newbie for Naver Cloud Platform
+Newbie for Naver Cloud Platform
 
 - Lab1. NCP 회원가입하기
 - Lab2. NCP에서 Windows Server 가상 서버 만들기
